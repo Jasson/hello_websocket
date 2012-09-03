@@ -1,0 +1,100 @@
+
+=INFO REPORT==== 3-Sep-2012::19:09:15 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::19:09:15 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::19:09:15 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::19:09:15 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:09:15 ===
+hello_websocket_01_news:--------------------------------
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:15 ===
+hello_websocket_01_news:--------------------------------Result={aborted,
+                                                                {already_exists,
+                                                                 wsession}}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:16 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:09:16 ===
+GET /users/home [hello_websocket] 200 9ms
+
+=INFO REPORT==== 3-Sep-2012::19:09:16 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.187.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:16 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.187.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:17 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.187.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:19 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:09:19 ===
+GET /users/home [hello_websocket] 200 11ms
+
+=INFO REPORT==== 3-Sep-2012::19:09:19 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.198.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:19 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.198.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:20 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.198.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:20 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.198.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:27 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:09:27 ===
+GET /users/home [hello_websocket] 200 7ms
+
+=INFO REPORT==== 3-Sep-2012::19:09:27 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.218.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:27 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.218.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:28 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.218.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:28 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.218.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:09:29 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.218.0>}
+

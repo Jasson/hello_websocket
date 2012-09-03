@@ -1,0 +1,44 @@
+
+=INFO REPORT==== 3-Sep-2012::19:05:42 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::19:05:42 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::19:05:42 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::19:05:42 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:05:42 ===
+hello_websocket_01_news:--------------------------------
+
+
+=INFO REPORT==== 3-Sep-2012::19:05:42 ===
+hello_websocket_01_news:--------------------------------Result={aborted,
+                                                                {already_exists,
+                                                                 wsession}}
+
+
+=INFO REPORT==== 3-Sep-2012::19:05:48 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:05:48 ===
+GET /users/home [hello_websocket] 200 6ms
+
+=INFO REPORT==== 3-Sep-2012::19:05:48 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.196.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:06:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:06:33 ===
+GET /users/home [hello_websocket] 200 6ms
+
+=INFO REPORT==== 3-Sep-2012::19:06:33 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.293.0>}
+

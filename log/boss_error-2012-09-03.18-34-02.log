@@ -1,0 +1,12 @@
+
+=INFO REPORT==== 3-Sep-2012::18:34:02 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::18:34:02 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::18:34:02 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::18:34:02 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....

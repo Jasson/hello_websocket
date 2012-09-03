@@ -1,0 +1,20 @@
+-module(hello_websocket).
+
+-export([init/0]).
+
+-include("hello_websocket.hrl").
+
+init() ->
+    mnesia:create_schema([node()]),
+    application:start(mnesia),
+    mnesia:create_table(session,
+                        [{ram_copies, [node()|nodes()]},
+                         {attributes, record_info(fields, session)}]),
+
+    mnesia:create_table(trends_session,
+                        [{ram_copies, [node()|nodes()]},
+                         {attributes, record_info(fields, trends_session)}]),
+    mnesia:add_table_index(trends_session, ws),
+    mnesia:add_table_index(trends_session, username),
+    ok. 
+        

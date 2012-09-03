@@ -1,0 +1,30 @@
+
+=INFO REPORT==== 3-Sep-2012::18:01:58 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::18:01:58 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::18:01:58 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::18:01:58 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:02:06 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:02:06 ===
+GET /users/home [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:02:08 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:02:08 ===
+GET /users/index [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:02:10 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:02:10 ===
+GET /my [hello_websocket] 404 0ms

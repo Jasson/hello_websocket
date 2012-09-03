@@ -1,0 +1,62 @@
+
+=INFO REPORT==== 3-Sep-2012::18:03:03 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::18:03:03 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::18:03:03 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::18:03:03 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:03:06 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:03:06 ===
+GET /user/index [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:03:10 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:03:10 ===
+GET /user [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:03:38 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:03:38 ===
+GET /users/index [hello_websocket] 200 18ms
+
+=INFO REPORT==== 3-Sep-2012::18:03:41 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:03:41 ===
+hello_websocket_users_controller:login Username=undefined 
+ SessionID="5d0a1b8dee19697c3f0f4ebf8618543e5088a627"
+
+=ERROR REPORT==== 3-Sep-2012::18:03:41 ===
+{aborted,{no_exists,trends_session}}
+
+=ERROR REPORT==== 3-Sep-2012::18:03:41 ===
+GET /users/login [hello_websocket] 500 18ms
+
+=INFO REPORT==== 3-Sep-2012::18:04:16 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:04:16 ===
+GET /users/index [hello_websocket] 200 13ms
+
+=INFO REPORT==== 3-Sep-2012::18:04:17 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:04:17 ===
+hello_websocket_users_controller:login Username=undefined 
+ SessionID="5d0a1b8dee19697c3f0f4ebf8618543e5088a627"
+
+=ERROR REPORT==== 3-Sep-2012::18:04:17 ===
+{aborted,{no_exists,trends_session}}
+
+=ERROR REPORT==== 3-Sep-2012::18:04:17 ===
+GET /users/login [hello_websocket] 500 11ms

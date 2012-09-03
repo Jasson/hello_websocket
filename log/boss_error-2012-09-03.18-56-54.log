@@ -1,0 +1,24 @@
+
+=INFO REPORT==== 3-Sep-2012::18:56:54 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::18:56:54 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::18:56:54 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::18:56:54 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:56:55 ===
+hello_websocket_01_news:--------------------------------
+
+
+=INFO REPORT==== 3-Sep-2012::18:56:55 ===
+hello_websocket_01_news:--------------------------------Result={aborted,
+                                                                {bad_type,
+                                                                 wsession,
+                                                                 {attributes,
+                                                                  [id]}}}
+

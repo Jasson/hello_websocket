@@ -1,0 +1,58 @@
+<html>
+<body>
+<p id="socketStatus"></p>
+<input type="text" id="inputMessage" value="hello websocket">
+<input type="text" id="to" value="Bill">
+<button id="sendButton">send</button>
+<button id="sendButtonjson">sendjson</button>
+</body>
+{% block link %}      
+{% endblock %}
+
+</html>
+
+<script type="text/javascript">
+    //alert(window.WebSocket);
+    socket = new WebSocket("ws://192.168.18.119:8001", "some_service_name");
+    socket.onopen = function(){
+        //alert("connected");
+        //socket.send("accepting....");
+        updateSocketStatus("Connected to WebSocket ");
+        socket.send("token:");
+    };
+        
+
+    socket.onmessage = function(e){
+        //alert("message");
+        //alert(e.data);
+        updateSocketStatus(e.data);
+        //updateSocketStatus("update to WebSocket "+e);
+        //updateSocketStatus("update to WebSocket "+dataReturned(e.data));
+    };
+    
+    socket.onclose = function(e){
+     //   alert("close");
+        //alert(typeof(e));
+        updateSocketStatus("close "+e.data);
+    };
+
+    function updateSocketStatus(message){
+        msg = document.getElementById("socketStatus").innerHTML +"</br>"+ message;
+        document.getElementById("socketStatus").innerHTML = msg;
+    }
+/**
+*/
+    window.onload = function(){
+        document.getElementById("sendButton").onclick = function() {
+            var message = document.getElementById("inputMessage").value;
+            socket.send(message);
+        }
+        document.getElementById("sendButtonjson").onclick = function() {
+        var to = document.getElementById("to").value;
+        //var txt = '{"message" : [{ "to":"Bill" , "text":"Gates" }]}';
+        var txt = 'direct_messages/new/{ "to":"'+ to + '" , "text":"Gates" }';
+            socket.send(txt);
+        }
+    };
+</script>
+

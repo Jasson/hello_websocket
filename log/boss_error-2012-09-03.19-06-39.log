@@ -1,0 +1,53 @@
+
+=INFO REPORT==== 3-Sep-2012::19:06:39 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::19:06:39 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::19:06:39 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::19:06:39 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:06:39 ===
+hello_websocket_01_news:--------------------------------
+
+
+=INFO REPORT==== 3-Sep-2012::19:06:39 ===
+hello_websocket_01_news:--------------------------------Result={aborted,
+                                                                {already_exists,
+                                                                 wsession}}
+
+
+=INFO REPORT==== 3-Sep-2012::19:06:41 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:06:41 ===
+GET /users/home [hello_websocket] 200 7ms
+
+=INFO REPORT==== 3-Sep-2012::19:06:41 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.184.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:06:41 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.184.0>}
+
+
+=ERROR REPORT==== 3-Sep-2012::19:06:42 ===
+Error in process <0.185.0> on node 'hello_websocket@jason-lxw' with exit value: {badarg,[{ets,match_object,[session,'_']},{ets,tab2list,1},{boss_misultin_websocket,handle_websocket,1}]}
+
+
+=ERROR REPORT==== 3-Sep-2012::19:06:42 ===
+	module: misultin_websocket
+	line: 243
+linked websocket controlling loop crashed with reason: {badarg,
+                                                        [{ets,match_object,
+                                                          [session,'_']},
+                                                         {ets,tab2list,1},
+                                                         {boss_misultin_websocket,
+                                                          handle_websocket,
+                                                          1}]}

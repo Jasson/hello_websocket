@@ -1,0 +1,154 @@
+
+=INFO REPORT==== 3-Sep-2012::18:18:33 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::18:18:33 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::18:18:33 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::18:18:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:18:39 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:18:39 ===
+GET /users/index [hello_websocket] 200 13ms
+
+=INFO REPORT==== 3-Sep-2012::18:18:42 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:18:42 ===
+hello_websocket_users_controller:login Username="username" 
+ SessionID="44a3d7258e16f2a722c062e82280d7c92048f675"
+
+=INFO REPORT==== 3-Sep-2012::18:18:42 ===
+GET /users/login [hello_websocket] 302 7ms
+
+=INFO REPORT==== 3-Sep-2012::18:18:42 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:18:42 ===
+GET /users/home [hello_websocket] 200 8ms
+
+=INFO REPORT==== 3-Sep-2012::18:18:42 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.208.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:18:44 ===
+boss_misultin_websocket:The operator is  Forbidden 
+
+=INFO REPORT==== 3-Sep-2012::18:29:45 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:29:45 ===
+GET /users/home [hello_websocket] 200 36ms
+
+=INFO REPORT==== 3-Sep-2012::18:29:45 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.1557.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:29:49 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:29:49 ===
+GET /users/home [hello_websocket] 200 5ms
+
+=INFO REPORT==== 3-Sep-2012::18:29:49 ===
+boss_misultin_websocket:The  CLOSED!  
+
+=INFO REPORT==== 3-Sep-2012::18:29:49 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.1570.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:29:49 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:29:49 ===
+GET /users/home [hello_websocket] 200 9ms
+
+=INFO REPORT==== 3-Sep-2012::18:29:49 ===
+boss_misultin_websocket:The  CLOSED!  
+
+=INFO REPORT==== 3-Sep-2012::18:29:49 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.1577.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:29:50 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:29:50 ===
+GET /users/home [hello_websocket] 200 5ms
+
+=INFO REPORT==== 3-Sep-2012::18:29:50 ===
+boss_misultin_websocket:The  CLOSED!  
+
+=INFO REPORT==== 3-Sep-2012::18:29:50 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.1582.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:30:09 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:30:09 ===
+GET /users/home [hello_websocket] 200 30ms
+
+=INFO REPORT==== 3-Sep-2012::18:30:09 ===
+boss_misultin_websocket:The  CLOSED!  
+
+=INFO REPORT==== 3-Sep-2012::18:30:09 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.1627.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:30:11 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:30:11 ===
+GET /users/home [hello_websocket] 200 8ms
+
+=INFO REPORT==== 3-Sep-2012::18:30:11 ===
+boss_misultin_websocket:The  CLOSED!  
+
+=INFO REPORT==== 3-Sep-2012::18:30:11 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.1636.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:30:23 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:30:23 ===
+GET /users/home [hello_websocket] 200 29ms
+
+=INFO REPORT==== 3-Sep-2012::18:30:23 ===
+boss_misultin_websocket:The  CLOSED!  
+
+=INFO REPORT==== 3-Sep-2012::18:30:23 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.1666.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:30:25 ===
+boss_misultin_websocket:The operator is  Forbidden 
+
+=INFO REPORT==== 3-Sep-2012::18:30:51 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:30:51 ===
+GET /users/home [hello_websocket] 200 6ms
+
+=INFO REPORT==== 3-Sep-2012::18:30:51 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.1729.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:30:52 ===
+boss_misultin_websocket:The operator is  Forbidden 

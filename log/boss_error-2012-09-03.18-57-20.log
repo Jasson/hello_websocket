@@ -1,0 +1,161 @@
+
+=INFO REPORT==== 3-Sep-2012::18:57:20 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::18:57:20 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::18:57:20 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::18:57:20 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:57:20 ===
+hello_websocket_01_news:--------------------------------
+
+
+=INFO REPORT==== 3-Sep-2012::18:57:20 ===
+hello_websocket_01_news:--------------------------------Result={atomic,ok}
+
+
+=INFO REPORT==== 3-Sep-2012::18:59:30 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:59:30 ===
+GET /users/index [hello_websocket] 200 10ms
+
+=INFO REPORT==== 3-Sep-2012::18:59:31 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:59:31 ===
+hello_websocket_users_controller:login Username="username" 
+ SessionID="286d55471149d29d92c15d62c0352f0410c9c73d"
+
+=ERROR REPORT==== 3-Sep-2012::18:59:31 ===
+{aborted,{no_exists,trends_session}}
+
+=ERROR REPORT==== 3-Sep-2012::18:59:31 ===
+GET /users/login [hello_websocket] 500 2ms
+
+=INFO REPORT==== 3-Sep-2012::19:00:25 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:00:25 ===
+GET /users/index [hello_websocket] 200 8ms
+
+=INFO REPORT==== 3-Sep-2012::19:01:28 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:01:28 ===
+GET /users/login [hello_websocket] 200 18ms
+
+=INFO REPORT==== 3-Sep-2012::19:01:49 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:01:49 ===
+GET /users/index [hello_websocket] 200 18ms
+
+=INFO REPORT==== 3-Sep-2012::19:01:50 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:01:50 ===
+hello_websocket_users_controller:login Username="username" 
+ SessionID="286d55471149d29d92c15d62c0352f0410c9c73d"
+
+=INFO REPORT==== 3-Sep-2012::19:01:50 ===
+GET /users/login [hello_websocket] 302 16ms
+
+=INFO REPORT==== 3-Sep-2012::19:01:50 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:01:50 ===
+GET /users/home [hello_websocket] 200 15ms
+
+=INFO REPORT==== 3-Sep-2012::19:01:50 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.753.0>}
+
+
+=ERROR REPORT==== 3-Sep-2012::19:01:53 ===
+Error in process <0.754.0> on node 'hello_websocket@jason-lxw' with exit value: {badarg,[{ets,match_object,[session,'_']},{ets,tab2list,1},{boss_misultin_websocket,handle_websocket,1}]}
+
+
+=ERROR REPORT==== 3-Sep-2012::19:01:53 ===
+	module: misultin_websocket
+	line: 243
+linked websocket controlling loop crashed with reason: {badarg,
+                                                        [{ets,match_object,
+                                                          [session,'_']},
+                                                         {ets,tab2list,1},
+                                                         {boss_misultin_websocket,
+                                                          handle_websocket,
+                                                          1}]}
+
+=INFO REPORT==== 3-Sep-2012::19:02:14 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:02:14 ===
+GET /users/home [hello_websocket] 200 14ms
+
+=INFO REPORT==== 3-Sep-2012::19:02:14 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.808.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:02:36 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:02:36 ===
+GET /users/home [hello_websocket] 200 50ms
+
+=INFO REPORT==== 3-Sep-2012::19:02:36 ===
+boss_misultin_websocket:The message is not right data of format _Ignore= closed!
+
+=INFO REPORT==== 3-Sep-2012::19:02:36 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.866.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:02:58 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:02:58 ===
+GET /users/home [hello_websocket] 200 40ms
+
+=INFO REPORT==== 3-Sep-2012::19:02:58 ===
+boss_misultin_websocket:The message is not right data of format _Ignore= closed!
+
+=INFO REPORT==== 3-Sep-2012::19:02:58 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.919.0>}
+
+
+=ERROR REPORT==== 3-Sep-2012::19:02:58 ===
+	module: misultin_websocket
+	line: 243
+linked websocket controlling loop crashed with reason: {aborted,
+                                                        {bad_type,
+                                                         {wsession,
+                                                          {misultin_ws,
+                                                           <0.919.0>}}}}
+
+=INFO REPORT==== 3-Sep-2012::19:04:51 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:04:51 ===
+GET /users/home [hello_websocket] 200 15ms
+
+=INFO REPORT==== 3-Sep-2012::19:04:51 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.1154.0>}
+
+
+=ERROR REPORT==== 3-Sep-2012::19:04:51 ===
+	module: misultin_websocket
+	line: 243
+linked websocket controlling loop crashed with reason: {aborted,
+                                                        {bad_type,
+                                                         {wsession,
+                                                          {misultin_ws,
+                                                           <0.1154.0>}}}}

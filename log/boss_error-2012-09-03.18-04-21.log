@@ -1,0 +1,248 @@
+
+=INFO REPORT==== 3-Sep-2012::18:04:21 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::18:04:21 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::18:04:21 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::18:04:21 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:04:32 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:04:32 ===
+GET /users/index [hello_websocket] 200 14ms
+
+=INFO REPORT==== 3-Sep-2012::18:04:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:04:33 ===
+GET /users/index [hello_websocket] 200 14ms
+
+=INFO REPORT==== 3-Sep-2012::18:04:34 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:04:34 ===
+hello_websocket_users_controller:login Username=undefined 
+ SessionID="686c599bfa4053b4e46b2e8174214cf8ba7f636f"
+
+=INFO REPORT==== 3-Sep-2012::18:04:34 ===
+GET /users/login [hello_websocket] 302 18ms
+
+=INFO REPORT==== 3-Sep-2012::18:04:34 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:04:34 ===
+GET /users/home [hello_websocket] 200 14ms
+
+=INFO REPORT==== 3-Sep-2012::18:04:34 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:04:34 ===
+GET /test [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:05:00 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:05:00 ===
+GET /users/home [hello_websocket] 200 17ms
+
+=INFO REPORT==== 3-Sep-2012::18:05:00 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:05:00 ===
+GET /test [hello_websocket] 404 1ms
+
+=INFO REPORT==== 3-Sep-2012::18:05:13 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:05:13 ===
+GET /users/home [hello_websocket] 200 15ms
+
+=INFO REPORT==== 3-Sep-2012::18:05:13 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:05:13 ===
+GET /test [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:05:20 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:05:20 ===
+GET /test [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:05:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:05:33 ===
+GET /users/index [hello_websocket] 200 15ms
+
+=INFO REPORT==== 3-Sep-2012::18:05:34 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:05:34 ===
+hello_websocket_users_controller:login Username=undefined 
+ SessionID="263a99b00a5209babfffc7d857a6e6c2341304ed"
+
+=INFO REPORT==== 3-Sep-2012::18:05:34 ===
+GET /users/login [hello_websocket] 302 14ms
+
+=INFO REPORT==== 3-Sep-2012::18:05:34 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:05:34 ===
+GET /users/home [hello_websocket] 200 14ms
+
+=INFO REPORT==== 3-Sep-2012::18:05:34 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:05:34 ===
+GET /test [hello_websocket] 404 1ms
+
+=INFO REPORT==== 3-Sep-2012::18:06:12 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:06:12 ===
+GET /users/home [hello_websocket] 200 39ms
+
+=INFO REPORT==== 3-Sep-2012::18:06:12 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:06:12 ===
+GET /test/ [hello_websocket] 404 1ms
+
+=INFO REPORT==== 3-Sep-2012::18:06:12 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:06:12 ===
+GET /users/home [hello_websocket] 200 16ms
+
+=INFO REPORT==== 3-Sep-2012::18:06:12 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:06:12 ===
+GET /test/ [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:06:12 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:06:12 ===
+GET /users/home [hello_websocket] 200 14ms
+
+=INFO REPORT==== 3-Sep-2012::18:06:13 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:06:13 ===
+GET /test/ [hello_websocket] 404 1ms
+
+=INFO REPORT==== 3-Sep-2012::18:06:13 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:06:13 ===
+GET /users/home [hello_websocket] 200 14ms
+
+=INFO REPORT==== 3-Sep-2012::18:06:13 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:06:13 ===
+GET /test/ [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:06:13 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:06:13 ===
+GET /users/home [hello_websocket] 200 17ms
+
+=INFO REPORT==== 3-Sep-2012::18:06:13 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:06:13 ===
+GET /test/ [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:07:57 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:07:58 ===
+GET /users/home [hello_websocket] 200 37ms
+
+=INFO REPORT==== 3-Sep-2012::18:07:58 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:07:58 ===
+GET / [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:32 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:08:32 ===
+GET /users/home [hello_websocket] 200 16ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:32 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:08:32 ===
+GET / [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:32 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:08:32 ===
+GET /users/home [hello_websocket] 200 22ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:32 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:08:32 ===
+GET / [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:32 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:08:32 ===
+GET /users/home [hello_websocket] 200 13ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:08:33 ===
+GET / [hello_websocket] 404 1ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:08:33 ===
+GET /users/home [hello_websocket] 200 16ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:08:33 ===
+GET / [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:08:33 ===
+GET /users/home [hello_websocket] 200 14ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:08:33 ===
+GET / [hello_websocket] 404 0ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:08:33 ===
+GET /users/home [hello_websocket] 200 13ms
+
+=INFO REPORT==== 3-Sep-2012::18:08:33 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:08:33 ===
+GET / [hello_websocket] 404 0ms

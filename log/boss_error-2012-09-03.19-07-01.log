@@ -1,0 +1,110 @@
+
+=INFO REPORT==== 3-Sep-2012::19:07:01 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::19:07:01 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::19:07:01 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::19:07:01 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:07:02 ===
+hello_websocket_01_news:--------------------------------
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:02 ===
+hello_websocket_01_news:--------------------------------Result={aborted,
+                                                                {already_exists,
+                                                                 wsession}}
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:04 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:07:04 ===
+GET /users/home [hello_websocket] 200 7ms
+
+=INFO REPORT==== 3-Sep-2012::19:07:04 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.188.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:04 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.188.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:05 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.188.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:06 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.188.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:07 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.188.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:14 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:07:14 ===
+GET /users/home [hello_websocket] 200 9ms
+
+=INFO REPORT==== 3-Sep-2012::19:07:14 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.213.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:14 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.213.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:15 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.213.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:23 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.213.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:07:24 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.188.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:08:20 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::19:08:20 ===
+GET /users/home [hello_websocket] 200 6ms
+
+=INFO REPORT==== 3-Sep-2012::19:08:20 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.351.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:08:20 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.351.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:08:23 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.351.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::19:08:24 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.351.0>}
+

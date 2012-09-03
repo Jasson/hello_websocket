@@ -1,0 +1,71 @@
+
+=INFO REPORT==== 3-Sep-2012::18:09:10 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::18:09:10 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::18:09:10 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::18:09:10 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:09:12 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:09:12 ===
+GET /users/home [hello_websocket] 200 15ms
+
+=INFO REPORT==== 3-Sep-2012::18:09:12 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.192.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:09:13 ===
+boss_misultin_websocket:The operator is  Forbidden 
+
+=INFO REPORT==== 3-Sep-2012::18:11:06 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:11:06 ===
+hello_websocket_users_controller:login Username=undefined 
+ SessionID="926d953c615276427efc7d8a1f2e410cd5c1ee94"
+
+=INFO REPORT==== 3-Sep-2012::18:11:06 ===
+GET /users/login [hello_websocket] 302 16ms
+
+=INFO REPORT==== 3-Sep-2012::18:11:06 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:11:06 ===
+GET /users/home [hello_websocket] 200 12ms
+
+=INFO REPORT==== 3-Sep-2012::18:11:06 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.431.0>}
+
+
+=INFO REPORT==== 3-Sep-2012::18:11:08 ===
+boss_misultin_websocket:The operator is  Forbidden 
+
+=INFO REPORT==== 3-Sep-2012::18:11:51 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:11:51 ===
+hello_websocket_users_controller:login Username=undefined 
+ SessionID="926d953c615276427efc7d8a1f2e410cd5c1ee94"
+
+=INFO REPORT==== 3-Sep-2012::18:11:51 ===
+GET /users/login [hello_websocket] 302 15ms
+
+=INFO REPORT==== 3-Sep-2012::18:11:51 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=INFO REPORT==== 3-Sep-2012::18:11:52 ===
+GET /users/home [hello_websocket] 200 17ms
+
+=INFO REPORT==== 3-Sep-2012::18:11:52 ===
+boss_misultin_websocket:boss_misultin_websocket:handle_websocket 26 Ws={misultin_ws,
+                                                                        <0.547.0>}
+

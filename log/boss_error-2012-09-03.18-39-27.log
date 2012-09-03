@@ -1,0 +1,27 @@
+
+=INFO REPORT==== 3-Sep-2012::18:39:27 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 3-Sep-2012::18:39:27 ===
+Starting master services on 'hello_websocket@jason-lxw'
+
+=INFO REPORT==== 3-Sep-2012::18:39:27 ===
+SSL:[]
+
+=INFO REPORT==== 3-Sep-2012::18:39:27 ===
+Loading routes from "/home/jason/open-source/hello_websocket/priv/hello_websocket.routes" ....
+
+=ERROR REPORT==== 3-Sep-2012::18:39:28 ===
+Compilation of "/home/jason/open-source/hello_websocket/priv/init/hello_websocket_01_news.erl" failed: {error,
+                                                                                                        [{"/home/jason/open-source/hello_websocket/priv/init/hello_websocket_01_news.erl",
+                                                                                                          [{{13,
+                                                                                                             39},
+                                                                                                            erl_lint,
+                                                                                                            {undefined_record,
+                                                                                                             session}},
+                                                                                                           {{16,
+                                                                                                             39},
+                                                                                                            erl_lint,
+                                                                                                            {undefined_record,
+                                                                                                             trends_session}}]}],
+                                                                                                        []}
